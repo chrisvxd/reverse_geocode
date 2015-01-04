@@ -1,4 +1,4 @@
-_Credit where it's due: Forked and moved to Git from https://bitbucket.org/richardpenman/reverse_geocode_
+Credit where it's due: Forked and moved to Git from https://bitbucket.org/richardpenman/reverse_geocode
 
 ===============
 Reverse Geocode
